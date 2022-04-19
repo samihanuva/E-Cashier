@@ -1,0 +1,81 @@
+#branch/branchid/branchid.txt :
+Branch ID
+Address
+Total Employees
+Number of manager
+Manager IDs
+Number of cashiers
+Cashier IDs
+Number of other employees
+Employee IDs
+
+#branch/branchid/employees/manager/managerid.txt :
+User ID
+Password
+Name
+Gender
+Contact Number
+Address
+Employee ID
+Branch ID
+Salary
+
+#branch/branchid/employees/cashiers/cashierid.txt :
+User ID
+Password
+Name
+Gender
+Contact Number
+Address
+Employee ID
+Branch ID
+Salary
+
+#branch/branchid/employees/employeeid.txt :
+Name
+Gender
+Contact Number
+Address
+Employee ID
+Branch ID
+Salary
+
+#branch/branchid/products.txt : List-
+Product ID
+Daily required unit in the branch
+Available unit in the branch
+
+#customer/customerid.txt :
+Name
+Gender
+Contact Number
+Address
+Customer/Member ID
+Membership initiation date
+Validity of membership
+Discount for the customer
+
+#product/productid.txt :
+Product ID
+Name
+Category
+Unit cost price
+Unit
+
+#DeletedEmployeesHistory/DId.txt :
+if managerid->same as managerid.txt
+if cashier->same as cashierid.txt
+if other employee->same as employeeid.txt
+
+#Total.txt :
+Total of provided Branch IDs
+Total of provided Manager IDs
+Total of provided Cashier IDs
+Total of provided Employee IDs
+Total of provided Product IDs
+Total of provided Customer IDs
+
+
+
+
+

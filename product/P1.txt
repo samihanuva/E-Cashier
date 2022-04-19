@@ -1,0 +1,5 @@
+P1
+Juice
+Beverages
+220.000000
+1000 ml

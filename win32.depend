@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1599333443 source:c:\users\user\documents\2-1 sem\oop\win32\main.cpp
+	<bits/stdc++.h>
+	<tchar.h>
+	<windows.h>
+	<typeinfo>
+	<ctime>
+	<Person.h>
+	<User.h>
+	<Administrator.h>
+	<Manager.h>
+	<Cashier.h>
+	<Employee.h>
+	<Branch.h>
+	<Customer.h>
+	<Product.h>
+
+1598117981 source:c:\users\user\documents\2-1 sem\oop\win32\src\person.cpp
+	"Person.h"
+
+1598605601 c:\users\user\documents\2-1 sem\oop\win32\include\person.h
+	<bits/stdc++.h>
+
+1598205055 source:c:\users\user\documents\2-1 sem\oop\win32\src\user.cpp
+	"User.h"
+
+1598371302 c:\users\user\documents\2-1 sem\oop\win32\include\user.h
+	<bits/stdc++.h>
+	<Person.h>
+
+1599205024 source:c:\users\user\documents\2-1 sem\oop\win32\src\administrator.cpp
+	"Administrator.h"
+	"Branch.h"
+	"Product.h"
+
+1599204916 c:\users\user\documents\2-1 sem\oop\win32\include\administrator.h
+	<bits/stdc++.h>
+	<User.h>
+	"Branch.h"
+	"Product.h"
+
+1599235074 source:c:\users\user\documents\2-1 sem\oop\win32\src\branch.cpp
+	"Branch.h"
+
+1599235269 c:\users\user\documents\2-1 sem\oop\win32\include\branch.h
+	<bits/stdc++.h>
+	"Product.h"
+
+1599327862 source:c:\users\user\documents\2-1 sem\oop\win32\src\cashier.cpp
+	"Cashier.h"
+	"Branch.h"
+	<bits/stdc++.h>
+
+1599326759 c:\users\user\documents\2-1 sem\oop\win32\include\cashier.h
+	<bits/stdc++.h>
+	<User.h>
+	<Employee.h>
+
+1598646833 c:\users\user\documents\2-1 sem\oop\win32\include\employee.h
+	<bits/stdc++.h>
+	<Person.h>
+
+1599297953 source:c:\users\user\documents\2-1 sem\oop\win32\src\customer.cpp
+	"Customer.h"
+
+1599297953 c:\users\user\documents\2-1 sem\oop\win32\include\customer.h
+	<bits/stdc++.h>
+	<Person.h>
+
+1598646833 source:c:\users\user\documents\2-1 sem\oop\win32\src\employee.cpp
+	"Employee.h"
+
+1599231568 source:c:\users\user\documents\2-1 sem\oop\win32\src\manager.cpp
+	"Manager.h"
+	"Branch.h"
+	"Product.h"
+
+1599029239 c:\users\user\documents\2-1 sem\oop\win32\include\manager.h
+	<bits/stdc++.h>
+	<User.h>
+	<Employee.h>
+
+1598165677 source:c:\users\user\documents\2-1 sem\oop\win32\src\orderlist.cpp
+	"OrderList.h"
+
+1598166884 c:\users\user\documents\2-1 sem\oop\win32\include\orderlist.h
+	<bits/stdc++.h>
+
+1599235074 source:c:\users\user\documents\2-1 sem\oop\win32\src\product.cpp
+	"Product.h"
+	"Branch.h"
+
+1599292038 c:\users\user\documents\2-1 sem\oop\win32\include\product.h
+	<bits/stdc++.h>
+
+1599333748 source:d:\sem3\oop_lab\project-pos system\complete\main.cpp
+	<bits/stdc++.h>
+	<tchar.h>
+	<windows.h>
+	<typeinfo>
+	<ctime>
+	<Person.h>
+	<User.h>
+	<Administrator.h>
+	<Manager.h>
+	<Cashier.h>
+	<Employee.h>
+	<Branch.h>
+	<Customer.h>
+	<Product.h>
+
+1599406508 d:\sem3\oop_lab\project-pos system\complete\include\person.h
+	<bits/stdc++.h>
+
+1599406668 d:\sem3\oop_lab\project-pos system\complete\include\user.h
+	<bits/stdc++.h>
+	<Person.h>
+
+1599405688 d:\sem3\oop_lab\project-pos system\complete\include\administrator.h
+	<bits/stdc++.h>
+	<User.h>
+	"Branch.h"
+	"Product.h"
+
+1599405918 d:\sem3\oop_lab\project-pos system\complete\include\branch.h
+	<bits/stdc++.h>
+	"Product.h"
+
+1599406594 d:\sem3\oop_lab\project-pos system\complete\include\product.h
+	<bits/stdc++.h>
+
+1599406486 d:\sem3\oop_lab\project-pos system\complete\include\manager.h
+	<bits/stdc++.h>
+	<User.h>
+	<Employee.h>
+
+1599406348 d:\sem3\oop_lab\project-pos system\complete\include\employee.h
+	<bits/stdc++.h>
+	<Person.h>
+
+1599406032 d:\sem3\oop_lab\project-pos system\complete\include\cashier.h
+	<bits/stdc++.h>
+	<User.h>
+	<Employee.h>
+
+1599406166 d:\sem3\oop_lab\project-pos system\complete\include\customer.h
+	<bits/stdc++.h>
+	<Person.h>
+
+1599405692 source:d:\sem3\oop_lab\project-pos system\complete\src\administrator.cpp
+	"Administrator.h"
+	"Branch.h"
+	"Product.h"
+
+1599235076 source:d:\sem3\oop_lab\project-pos system\complete\src\branch.cpp
+	"Branch.h"
+
+1599327864 source:d:\sem3\oop_lab\project-pos system\complete\src\cashier.cpp
+	"Cashier.h"
+	"Branch.h"
+	<bits/stdc++.h>
+
+1599297954 source:d:\sem3\oop_lab\project-pos system\complete\src\customer.cpp
+	"Customer.h"
+
+1599406308 source:d:\sem3\oop_lab\project-pos system\complete\src\employee.cpp
+	"Employee.h"
+
+1599231570 source:d:\sem3\oop_lab\project-pos system\complete\src\manager.cpp
+	"Manager.h"
+	"Branch.h"
+	"Product.h"
+
+1598117982 source:d:\sem3\oop_lab\project-pos system\complete\src\person.cpp
+	"Person.h"
+
+1599235076 source:d:\sem3\oop_lab\project-pos system\complete\src\product.cpp
+	"Product.h"
+	"Branch.h"
+
+1598205056 source:d:\sem3\oop_lab\project-pos system\complete\src\user.cpp
+	"User.h"
+

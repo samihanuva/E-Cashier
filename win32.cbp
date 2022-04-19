@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="win32" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/win32" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/win32" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="gdi32" />
+			<Add library="user32" />
+			<Add library="kernel32" />
+			<Add library="comctl32" />
+		</Linker>
+		<Unit filename="include/Administrator.h" />
+		<Unit filename="include/Branch.h" />
+		<Unit filename="include/Cashier.h" />
+		<Unit filename="include/Customer.h" />
+		<Unit filename="include/Employee.h" />
+		<Unit filename="include/Manager.h" />
+		<Unit filename="include/Person.h" />
+		<Unit filename="include/Product.h" />
+		<Unit filename="include/User.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Administrator.cpp" />
+		<Unit filename="src/Branch.cpp" />
+		<Unit filename="src/Cashier.cpp" />
+		<Unit filename="src/Customer.cpp" />
+		<Unit filename="src/Employee.cpp" />
+		<Unit filename="src/Manager.cpp" />
+		<Unit filename="src/Person.cpp" />
+		<Unit filename="src/Product.cpp" />
+		<Unit filename="src/User.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
